@@ -1,0 +1,35 @@
+.myNav {
+    background-color: rgb(212, 216, 219);
+    font-family: "roboto";
+}
+
+.myNav ul {
+    list-style: none;
+    padding: 0%;
+    margin: 0;
+}
+
+.myNav li {
+    display: inline;
+    padding: 40px;
+}
+
+.myNav ul li a {
+    padding: 20px 15px;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    color: goldenrod;
+}
+
+#myImage {
+    width: 100px;
+}
+
+.intro {
+    text-align: center;
+    background-color: antiquewhite;
+    color: white;
+    padding: 50px;
+    line-height: 2;
+}
